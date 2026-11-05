@@ -7,4 +7,4 @@
 5          | 第 4 章 | 是 |  |  [04](https://github.com/joinwingz0-bit/_co/tree/main/_co/04) | 
 6          | HackCPU 電路圖 | 是 |  | | 
 7          | 第 5 章 | 是 |  |  [05](https://github.com/joinwingz0-bit/_co/tree/main/_co/05) | 
-8          | EDA 軟體報告 | 是 |   | | 
+8          | EDA 軟體報告 | 是 |   |  [week8](https://github.com/joinwingz0-bit/_co/tree/main/_co/week8) | 
