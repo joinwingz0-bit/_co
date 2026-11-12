@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# 本地資料庫與暫存快取 (專案特有)
+*.db
+data/
+.wrangler/
